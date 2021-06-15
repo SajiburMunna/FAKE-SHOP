@@ -1,0 +1,29 @@
+
+ 
+
+
+
+.product{
+    display: flex;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.product-name{
+    color: #025;
+  
+}
+.button{
+    background-color: #025;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    border: 1px solid white;
+    cursor: pointer;
+    color: antiquewhite;
+}
+p{
+    font-weight: bold;
+     
+}
