@@ -13,6 +13,7 @@ import Review from './components/Review/Review';
 import Inventory from './components/Inventory/Inventory';
 import NotFound from './NotFound/NotFound';
 import ProductDetails from './components/ProductDetails/ProductDetails';
+import Login from './components/Login/Login.js';
 
 
 function App() {
@@ -36,6 +37,9 @@ function App() {
      </Route>
      <Route path="/product/:productkey">
         <ProductDetails></ProductDetails>
+     </Route>
+     <Route path="/login">
+         <Login> </Login>
      </Route>
      <Route path="*">
        <NotFound></NotFound>

@@ -11,9 +11,9 @@
         <nav>
         <a href="/shop">Shop</a>
 
-        <a href="/oder">Oder_Review</a>
+        <a href="/oder">OderReview</a>
 
-        <a href="/manager">Manage_Inventory</a>
+        <a href="/manager">ManageInventory</a>
         </nav>
          </div>
          </div>
